@@ -16,3 +16,4 @@ db.producto.find()
 
 // Cuenta los documentos de la colección producto
 db.producto.find().count()
+//niuco
